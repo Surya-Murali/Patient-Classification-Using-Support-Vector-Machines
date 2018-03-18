@@ -9,7 +9,7 @@ from sklearn.metrics import classification_report
 from sklearn.metrics import precision_score, recall_score, accuracy_score
 
 #Read Data
-data2 = pd.read_csv('C:/Users/surya/Desktop/SpringSemester/IDA/HW1/Dataset/Biomechanical_Data_column_2C_weka.csv')
+data2 = pd.read_csv('C:/Users/surya/Desktop/SpringSemester/IDA/Dataset/Biomechanical_Data_column_2C_weka.csv')
 
 #The dataset contains 310 records
 #See the Shape of data and check the first 5 records of your data
