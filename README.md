@@ -1,1 +1,3 @@
 # Support-Vector-Machines
+
+The goal of the project is to predict whether a patient is normal or abnormal based on six biomechanical attributes derived from the shape and orientation of the pelvis and lumbar spine. The dataset, taken from UCI Machine Learning Repository, is randomly split into training and testing sets. ‘Linear’ Kernel and ‘Radial Basis Function’ (RBF) kernels are used to build a classifier model, which predicts the class of the testing set. The accuracy, recall, and precision parameters are compared for each class for different kernels. Both datasets have same 310 feature vectors, six features, and a class column.
